@@ -85,6 +85,7 @@ header nav {
 header{
 	display: flex;
 }
+
 header nav a {
   margin-right: 65px;
   font-size: 14px;
@@ -141,7 +142,7 @@ header .logo {
 .cta img {
 	display: flex;
 	margin-top: 69px;
-  }
+}
 
 .main-content {
   border-top: 1px solid black;
@@ -171,6 +172,7 @@ ul{
   list-style-type: square;
   list-style-position: inside;
 }
+
 .services-main-content {
   border-top: 1px solid black;
   margin-top: 40px;
@@ -216,7 +218,6 @@ ul{
 
 .main-content .top-content .text-content {
   width: 410px;
-  /*display: inline-block;*/
   margin-right: 34px;
 }
 
@@ -236,7 +237,6 @@ ul{
 
 .main-content .bottom-content .text-content {
   width: 275px;
-  /*display: inline-block;*/
   margin-right: 12px;
 }
 
